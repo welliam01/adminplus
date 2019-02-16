@@ -181,7 +181,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/87RhFH :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/mJGznNR :scroll: **`)
         
    message.author.sendEmbed(embed)
    
@@ -193,7 +193,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/87RhFH :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/mJGznNR :scroll: **`)
         
    message.author.sendEmbed(embed)
    
@@ -205,7 +205,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/87RhFH :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/mJGznNR :scroll: **`)
          
    message.author.sendEmbed(embed)
    
@@ -217,7 +217,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/87RhFH :scroll: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/mJGznNR :scroll: **`)
         
    message.author.sendEmbed(embed)
    
@@ -229,7 +229,7 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-        .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/87RhFH :scroll: **`)
+        .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/mJGznNR :scroll: **`)
       
    message.author.sendEmbed(embed)
    
@@ -297,6 +297,9 @@ client.on('message', message => {
   **:gear: -delet <name> | مسح الشات او الرووم فويس**
 
   **:gear: -ccolors <number> | ينشا لك الوان مع كم الوان تبي**
+
+ **___لاضافة البوت الى سيرفرك___**
+https://discordapp.com/api/oauth2/authorize?client_id=544651746220441600&permissions=8&scope=bot
 
   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 `)
